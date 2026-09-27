@@ -1,7 +1,7 @@
 /*           						PRACTICE
 Q-1 : Find duplicate records in table
 use table - employees | columns : first name and email
-find employee's who's name and email are repeating. */
+find employees who's name and email are repeating. */
 
 create database prac;
 
